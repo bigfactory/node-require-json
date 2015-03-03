@@ -1,0 +1,19 @@
+{
+  "name": "node-require-json",
+  "version": "0.0.1",
+  "description": "require json file which define in a loose standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bigfactory/node-require-json.git"
+  },
+  "author": "xiaocong.hxc@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigfactory/node-require-json/issues"
+  },
+  "homepage": "https://github.com/bigfactory/node-require-json"
+}
